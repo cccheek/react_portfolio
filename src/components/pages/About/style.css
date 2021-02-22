@@ -1,0 +1,12 @@
+.container{
+    display: block;
+    margin: 0 auto;
+}
+
+#panda{
+    font-size: x-large;
+}
+
+#image {
+    box-shadow: 10px 10px 5px rgb(41, 43, 44);
+}
