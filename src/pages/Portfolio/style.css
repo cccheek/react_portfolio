@@ -1,0 +1,13 @@
+.container{
+    display: block;
+    margin: 0 auto;
+}
+
+#portfolio-card {
+    display: block;
+    margin: 0 auto;
+}
+
+.card {
+    width: 18rem;
+}

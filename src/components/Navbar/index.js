@@ -1,3 +1,5 @@
+import React from "react";
+
 function Navbar() {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -8,10 +10,10 @@ function Navbar() {
             </button>
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div className="navbar-nav">
-                    <a className="nav-link" href="https://www.cccheek.github.io/hw_portfolio/index.html">About<span
+                    <a className="nav-link" href="about">About<span
                         className="sr-only">(current)</span></a>
-                    <a className="nav-link" href="portfolio.html">Portfolio</a>
-                    <a className="nav-link" href="contact.html">Contact</a>
+                    <a className="nav-link" href="portfolio">Portfolio</a>
+                    <a className="nav-link" href="contact">Contact</a>
                 </div>
             </div>
         </nav>
