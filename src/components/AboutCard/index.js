@@ -21,7 +21,7 @@ function AboutCard() {
                 </div>
 
                 <div className="col-sm-4">
-                    <p>I'm a baby web developer. I have officially survived my two months of Bootcamp and I'm still standing! I look
+                    <p>I'm a baby web developer. I have officially survived two and a half months of Bootcamp and I'm almost done! I look
                     forward to being confident in my newly learned skills and creating useful products that make people's lives
                     more beautiful and a little easier. I think pandas are undoubtably the best animal ever invented and I more
           than anything I wish I was one.</p>
