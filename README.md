@@ -5,3 +5,6 @@ Hi! My name is Claire and this is my React Portfolio. I am a baby web dev that h
 ## DEPLOYED LINK
 
 https://ccc-portfolio.herokuapp.com/
+
+
+[![Screen-Shot-2021-02-23-at-8-20-19-PM.png](https://i.postimg.cc/d0rbZK62/Screen-Shot-2021-02-23-at-8-20-19-PM.png)](https://postimg.cc/rdyn73vs)
